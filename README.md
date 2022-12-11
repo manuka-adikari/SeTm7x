@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @SeTm7x
-- 👀 I’m interested in: Web Development
-- 🌱 I’m currently learning: Rust
-- 💞️ I’m looking to collaborate on:
+
